@@ -3,3 +3,4 @@
 ### Admin Credentials 
 ##### email : admin@gmail.com
 ##### password : admin
+### Create new customer account from the admin panel
